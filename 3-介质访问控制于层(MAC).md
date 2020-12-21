@@ -169,6 +169,8 @@ p-坚持CSMA：
 
 光纤分布式数据接口 (*FDDI, Fiber Distributed Data Interface*)
 
+**快速以太网数据帧有效载荷的最小长度为 46 字节**
+
 ### 千兆以太网(*gigabit Ethemet*)
 
 ### IEEE 802.2: Logical Link Control  逻辑链路控制
